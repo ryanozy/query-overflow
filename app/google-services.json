@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "651916865259",
+    "project_id": "inf2007-team46-2024",
+    "storage_bucket": "inf2007-team46-2024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651916865259:android:cd6a751c1eff37eb52d8ae",
+        "android_client_info": {
+          "package_name": "com.example.query_overflow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6BQMfPHaA94XyeTXFeBhG_PpDcGmH0cg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
