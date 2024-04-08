@@ -81,7 +81,7 @@ class FirebaseHelper : Activity() {
 
     // Firebase Realtime Database
     private val database =
-        Firebase.database("https://inf2007-team46-2024-default-rtdb.asia-southeast1.firebasedatabase.app/")
+        Firebase.database("FIREBASE_DB")
     private val myRef = database.getReference("Subjects")
 
     // Getters //
