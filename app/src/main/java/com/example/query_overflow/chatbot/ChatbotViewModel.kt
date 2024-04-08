@@ -291,7 +291,7 @@ class ChatbotViewModelFactory(private val repository: ChatbotRepository) :
         if (modelClass.isAssignableFrom(ChatbotViewModel::class.java)) {
             val generativeModel = GenerativeModel(
                 modelName = "gemini-1.0-pro",
-                apiKey = "AIzaSyABvfKZy0Vm6UScE7wnTbbnfUeypfw1g68",
+                apiKey = "YOUR_API_KEY",
                 generationConfig = generationConfig {
                     temperature = 0.7f
                 }
