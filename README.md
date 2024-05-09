@@ -35,10 +35,10 @@ This Android project is an all-in-one question-and-answer mobile application, ai
 
 ## Screenshots
 
-![Screenshot 1](screenshots\home-page.png)
-![Screenshot 2](screenshots\welcome-page.png)
-![Screenshot 3](screenshots\question-view.png)
-![Screenshot 4](screenshots\new-question.png)
-![Screenshot 5](screenshots\room-selection.png)
-![Screenshot 6](screenshots\chat-room.png)
-![Screenshot 7](screenshots\translation-chat.png)
+![Screenshot 1](screenshots/chat-room.png)
+![Screenshot 2](screenshots/welcome-page.png)
+![Screenshot 3](screenshots/question-view.png)
+![Screenshot 4](screenshots/new-question.png)
+![Screenshot 5](screenshots/room-selection.png)
+![Screenshot 6](screenshots/chat-room.png)
+![Screenshot 7](screenshots/translation-chat.png)
