@@ -32,3 +32,13 @@ This Android project is an all-in-one question-and-answer mobile application, ai
     ```
 2. **Open the Project**: Open the project in Android Studio.
 3. **Run the Application**: Run the application on an emulator or a physical device.
+
+## Screenshots
+
+![Screenshot 1](screenshots\home-page.png)
+![Screenshot 2](screenshots\welcome-page.png)
+![Screenshot 3](screenshots\question-view.png)
+![Screenshot 4](screenshots\new-question.png)
+![Screenshot 5](screenshots\room-selection.png)
+![Screenshot 6](screenshots\chat-room.png)
+![Screenshot 7](screenshots\translation-chat.png)
